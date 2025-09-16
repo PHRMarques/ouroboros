@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Legends of Astoria - RPG Tático</title>
-    <meta name="description" content="Um RPG tático épico inspirado em Final Fantasy Tactics com 4 heróis únicos">
+    <title>Conquistadores de Boros</title>
+    <meta name="description" content="Fabula Ultima RPG inspirado em Final Fantasy Tactics">
     
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
@@ -364,8 +363,8 @@
     
     <div class="container">
         <header>
-            <h1 class="logo">Legends of Astoria</h1>
-            <p class="subtitle">Um RPG Tático Épico</p>
+            <h1 class="logo">A origem de todo mal</h1>
+            <p class="subtitle">Os conquistadores de Boros</p>
         </header>
 
         <section class="game-description">
