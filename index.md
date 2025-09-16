@@ -373,20 +373,20 @@
                 Em um continente onde a magia e a loucura se encontram, quatro individuos únicos devem unir suas forças para vencer um desafio maior. 
                 Inspirado nos clássicos RPGs táticos, este jogo combina narrativa envolvente com combate estratégico. 
                 Cada decisão importa, cada movimento pode determinar o destino do grupo. 
-                Explorando a majestosa Dungeon de Boros, com mistérios arcanos, desafios e sofrimento,domine o continente.
+                Explorando a majestosa Dungeon de Boros, com mistérios arcanos, desafios e sofrimento, domine tudo.
             </p>
         </section>
 
         <section class="characters-section">
-            <h2 class="section-title">Os Quatro Heróis</h2>
+            <h2 class="section-title">Os Quatro Destinos</h2>
             
             <div class="characters-grid">
                 <div class="character-card">
                     <div class="character-portrait">
                         <img src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=300&fit=crop&crop=face" alt="Sir Gareth" onerror="this.src='https://via.placeholder.com/300x300/1a237e/D4AF37?text=Knight'">
                     </div>
-                    <h3 class="character-name">Sir Gareth</h3>
-                    <div class="character-class">Cavaleiro Templário</div>
+                    <h3 class="character-name">Keeper</h3>
+                    <div class="character-class">A prostituta</div>
                     
                     <div class="character-stats">
                         <div class="stat-bar">
@@ -419,8 +419,8 @@
                     <div class="character-portrait">
                         <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face" alt="Lyra Moonwhisper" onerror="this.src='https://via.placeholder.com/300x300/4a148c/D4AF37?text=Mage'">
                     </div>
-                    <h3 class="character-name">Lyra Moonwhisper</h3>
-                    <div class="character-class">Arquimaga Elemental</div>
+                    <h3 class="character-name">Janus</h3>
+                    <div class="character-class">Sábio Sideral</div>
                     
                     <div class="character-stats">
                         <div class="stat-bar">
@@ -454,7 +454,7 @@
                         <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face" alt="Thane Swiftarrow" onerror="this.src='https://via.placeholder.com/300x300/2e7d32/D4AF37?text=Archer'">
                     </div>
                     <h3 class="character-name">Thane Swiftarrow</h3>
-                    <div class="character-class">Batedor Élfico</div>
+                    <div class="character-class">Necromante Apelão</div>
                     
                     <div class="character-stats">
                         <div class="stat-bar">
@@ -487,8 +487,8 @@
                     <div class="character-portrait">
                         <img src="https://images.unsplash.com/photo-1494790108755-2616c17ca6dd?w=300&h=300&fit=crop&crop=face" alt="Seraphina" onerror="this.src='https://via.placeholder.com/300x300/f57c00/D4AF37?text=Healer'">
                     </div>
-                    <h3 class="character-name">Seraphina</h3>
-                    <div class="character-class">Clériga da Luz</div>
+                    <h3 class="character-name">Daiego</h3>
+                    <div class="character-class">Metamorfo combado</div>
                     
                     <div class="character-stats">
                         <div class="stat-bar">
@@ -526,7 +526,7 @@
                 <div class="feature">
                     <div class="feature-icon">⚔️</div>
                     <h3>Combate Tático</h3>
-                    <p>Sistema de combate em turnos com posicionamento estratégico e terrain effects</p>
+                    <p>Sistema de combate em dificil com posicionamento estratégico</p>
                 </div>
                 
                 <div class="feature">
@@ -543,7 +543,7 @@
                 
                 <div class="feature">
                     <div class="feature-icon">🏰</div>
-                    <h3>Mundo Vasto</h3>
+                    <h3>Mundo criativo</h3>
                     <p>Explore reinos místicos, masmorras antigas e cidades prósperas</p>
                 </div>
             </div>
@@ -553,7 +553,7 @@
             <button class="cta-button" onclick="startGame()">Iniciar Aventura</button>
             <button class="cta-button" onclick="showTrailer()">Ver Trailer</button>
             <p style="margin-top: 30px; opacity: 0.8;">
-                © 2024 Legends of Astoria. Embarque nesta jornada épica.
+                © 2024 Legends of Paulo. Embarque nesta jornada épica.
             </p>
         </footer>
     </div>
