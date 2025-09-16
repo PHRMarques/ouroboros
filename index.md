@@ -368,12 +368,12 @@
         </header>
 
         <section class="game-description">
-            <h2>O Reino Precisa de Heróis</h2>
+            <h2>Em um mundo sem heróis</h2>
             <p>
-                Em um mundo onde a magia e a estratégia se encontram, quatro heróis únicos devem unir suas forças para salvar o reino de Astoria. 
-                Inspirado nos clássicos RPGs táticos, este jogo combina narrativa envolvente com combate estratégico em turnos. 
-                Cada decisão importa, cada movimento pode determinar o destino de seu esquadrão. 
-                Explore masmorras antigas, desvende mistérios arcanos e domine o campo de batalha com táticas precisas.
+                Em um continente onde a magia e a loucura se encontram, quatro individuos únicos devem unir suas forças para vencer um desafio maior. 
+                Inspirado nos clássicos RPGs táticos, este jogo combina narrativa envolvente com combate estratégico. 
+                Cada decisão importa, cada movimento pode determinar o destino do grupo. 
+                Explorando a majestosa Dungeon de Boros, com mistérios arcanos, desafios e sofrimento,domine o continente.
             </p>
         </section>
 
