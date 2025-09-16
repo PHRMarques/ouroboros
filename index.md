@@ -363,8 +363,8 @@
     
     <div class="container">
         <header>
-            <h1 class="logo">A origem de todo mal</h1>
-            <p class="subtitle">Os conquistadores de Boros</p>
+            <h1 class="logo">Conquistadores de Boros</h1>
+            <p class="subtitle">A origem de todo mal</p>
         </header>
 
         <section class="game-description">
