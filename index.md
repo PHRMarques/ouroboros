@@ -385,8 +385,8 @@
                     <div class="character-portrait">
                         <img src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=300&fit=crop&crop=face" alt="Sir Gareth" onerror="this.src='https://via.placeholder.com/300x300/1a237e/D4AF37?text=Knight'">
                     </div>
-                    <h3 class="character-name">Keeper</h3>
-                    <div class="character-class">A prostituta</div>
+                    <h3 class="character-name">Keeper Creeper</h3>
+                    <div class="character-class">A Prostituta Possuida</div>
                     
                     <div class="character-stats">
                         <div class="stat-bar">
@@ -409,9 +409,9 @@
                     
                     <div class="character-abilities">
                         <div class="abilities-title">Habilidades Especiais:</div>
-                        <div class="ability">🛡️ Escudo Sagrado - Protege aliados</div>
-                        <div class="ability">⚔️ Golpe Divino - Dano sagrado massivo</div>
-                        <div class="ability">✨ Aura de Coragem - Aumenta moral da equipe</div>
+                        <div class="ability">🛡️ Escudo Tentacular - Protege e Traumatiza aliados</div>
+                        <div class="ability">⚔️ Golpe Inefável - Dano fisico massivo</div>
+                        <div class="ability">✨ Aura de Horror - Diminui moral do narrador</div>
                     </div>
                 </div>
 
@@ -419,8 +419,8 @@
                     <div class="character-portrait">
                         <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face" alt="Lyra Moonwhisper" onerror="this.src='https://via.placeholder.com/300x300/4a148c/D4AF37?text=Mage'">
                     </div>
-                    <h3 class="character-name">Janus</h3>
-                    <div class="character-class">Sábio Sideral</div>
+                    <h3 class="character-name">Janus Lemurides</h3>
+                    <div class="character-class">O Sábio Sideral</div>
                     
                     <div class="character-stats">
                         <div class="stat-bar">
@@ -443,9 +443,9 @@
                     
                     <div class="character-abilities">
                         <div class="abilities-title">Habilidades Especiais:</div>
-                        <div class="ability">🔥 Meteoro - Devastação em área</div>
-                        <div class="ability">❄️ Nevasca Glacial - Congela inimigos</div>
-                        <div class="ability">⚡ Tempestade Arcana - Múltiplos raios</div>
+                        <div class="ability">🔥 Meteoro da Razão - Argumentação em área</div>
+                        <div class="ability">❄️ Cura Estelar - Restaura aliados</div>
+                        <div class="ability">⚡ Ampulheta Arcana - Manipula o tempo</div>
                     </div>
                 </div>
 
@@ -453,8 +453,8 @@
                     <div class="character-portrait">
                         <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face" alt="Thane Swiftarrow" onerror="this.src='https://via.placeholder.com/300x300/2e7d32/D4AF37?text=Archer'">
                     </div>
-                    <h3 class="character-name">Thane Swiftarrow</h3>
-                    <div class="character-class">Necromante Apelão</div>
+                    <h3 class="character-name">Sallindo</h3>
+                    <div class="character-class">O Necromante Apelão</div>
                     
                     <div class="character-stats">
                         <div class="stat-bar">
@@ -476,10 +476,10 @@
                     </div>
                     
                     <div class="character-abilities">
-                        <div class="abilities-title">Habilidades Especiais:</div>
-                        <div class="ability">🏹 Tiro Certeiro - Nunca erra o alvo</div>
-                        <div class="ability">🌿 Camuflagem Natural - Torna-se invisível</div>
-                        <div class="ability">💨 Rajada de Flechas - Múltiplos ataques</div>
+                        <div class="abilities-title">Habilidades Apelonas:</div>
+                        <div class="ability">🏹 Apelação Certeira - Nunca erra o alvo</div>
+                        <div class="ability">✨ Apelação Natural - Torna-se invencivel</div>
+                        <div class="ability">💨 Rajada de Apelacão - Múltiplos ataques</div>
                     </div>
                 </div>
 
@@ -487,8 +487,8 @@
                     <div class="character-portrait">
                         <img src="https://images.unsplash.com/photo-1494790108755-2616c17ca6dd?w=300&h=300&fit=crop&crop=face" alt="Seraphina" onerror="this.src='https://via.placeholder.com/300x300/f57c00/D4AF37?text=Healer'">
                     </div>
-                    <h3 class="character-name">Daiego</h3>
-                    <div class="character-class">Metamorfo combado</div>
+                    <h3 class="character-name">Nergal</h3>
+                    <div class="character-class">O Metamorfo Combado</div>
                     
                     <div class="character-stats">
                         <div class="stat-bar">
@@ -511,9 +511,9 @@
                     
                     <div class="character-abilities">
                         <div class="abilities-title">Habilidades Especiais:</div>
-                        <div class="ability">💫 Cura Divina - Restaura HP totalmente</div>
-                        <div class="ability">🌟 Ressurreição - Revive aliados caídos</div>
-                        <div class="ability">⭐ Bênção Celestial - Buffs permanentes</div>
+                        <div class="ability">⚔️ Auto-flagelo - Retira HP</div>
+                        <div class="ability">⚔️ Caminho do massacre - Dano nos inimigos</div>
+                        <div class="ability">⚔️ Bênção da Morte - Mata os inimigos</div>
                     </div>
                 </div>
             </div>
@@ -525,14 +525,14 @@
             <div class="features-grid">
                 <div class="feature">
                     <div class="feature-icon">⚔️</div>
-                    <h3>Combate Tático</h3>
-                    <p>Sistema de combate em dificil com posicionamento estratégico</p>
+                    <h3>Combate Improvisado</h3>
+                    <p>Sistema de combate dificil, nao planejado e com posicionamento questionavel</p>
                 </div>
                 
                 <div class="feature">
                     <div class="feature-icon">📚</div>
                     <h3>História Épica</h3>
-                    <p>Narrativa envolvente com escolhas que afetam o desenrolar da aventura</p>
+                    <p>Narrativa com ritmo envolvente, escolhas que afetam o desenrolar da aventura e cheiros de cu queimado.</p>
                 </div>
                 
                 <div class="feature">
