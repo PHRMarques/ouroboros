@@ -424,20 +424,20 @@
                     
                     <div class="character-stats">
                         <div class="stat-bar">
-                            <span class="stat-name">Força</span>
-                            <span class="stat-value">35</span>
+                            <span class="stat-name">Destreza (DES)</span>
+                            <span class="stat-value">D6</span>
                         </div>
                         <div class="stat-bar">
-                            <span class="stat-name">Defesa</span>
-                            <span class="stat-value">45</span>
+                            <span class="stat-name">Vigor (VIG)</span>
+                            <span class="stat-value">D10</span>
                         </div>
                         <div class="stat-bar">
-                            <span class="stat-name">Velocidade</span>
-                            <span class="stat-value">75</span>
+                            <span class="stat-name">Astúcia (AST)</span>
+                            <span class="stat-value">D8</span>
                         </div>
                         <div class="stat-bar">
-                            <span class="stat-name">Mana</span>
-                            <span class="stat-value">100</span>
+                            <span class="stat-name">Vontade (VON)</span>
+                            <span class="stat-value">D8</span>
                         </div>
                     </div>
                     
@@ -458,20 +458,20 @@
                     
                     <div class="character-stats">
                         <div class="stat-bar">
-                            <span class="stat-name">Força</span>
-                            <span class="stat-value">70</span>
+                            <span class="stat-name">Destreza (DES)</span>
+                            <span class="stat-value">D6</span>
                         </div>
                         <div class="stat-bar">
-                            <span class="stat-name">Defesa</span>
-                            <span class="stat-value">55</span>
+                            <span class="stat-name">Vigor (VIG)</span>
+                            <span class="stat-value">D10</span>
                         </div>
                         <div class="stat-bar">
-                            <span class="stat-name">Velocidade</span>
-                            <span class="stat-value">95</span>
+                            <span class="stat-name">Astúcia (AST)</span>
+                            <span class="stat-value">D8</span>
                         </div>
                         <div class="stat-bar">
-                            <span class="stat-name">Mana</span>
-                            <span class="stat-value">60</span>
+                            <span class="stat-name">Vontade (VON)</span>
+                            <span class="stat-value">D8</span>
                         </div>
                     </div>
                     
@@ -492,20 +492,20 @@
                     
                     <div class="character-stats">
                         <div class="stat-bar">
-                            <span class="stat-name">Força</span>
-                            <span class="stat-value">45</span>
+                            <span class="stat-name">Destreza (DES)</span>
+                            <span class="stat-value">D6</span>
                         </div>
                         <div class="stat-bar">
-                            <span class="stat-name">Defesa</span>
-                            <span class="stat-value">70</span>
+                            <span class="stat-name">Vigor (VIG)</span>
+                            <span class="stat-value">D10</span>
                         </div>
                         <div class="stat-bar">
-                            <span class="stat-name">Velocidade</span>
-                            <span class="stat-value">65</span>
+                            <span class="stat-name">Astúcia (AST)</span>
+                            <span class="stat-value">D8</span>
                         </div>
                         <div class="stat-bar">
-                            <span class="stat-name">Mana</span>
-                            <span class="stat-value">90</span>
+                            <span class="stat-name">Vontade (VON)</span>
+                            <span class="stat-value">D8</span>
                         </div>
                     </div>
                     
