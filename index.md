@@ -383,7 +383,7 @@
             <div class="characters-grid">
                 <div class="character-card">
                     <div class="character-portrait">
-                        <img src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=300&fit=crop&crop=face" alt="Sir Gareth" onerror="this.src='https://via.placeholder.com/300x300/1a237e/D4AF37?text=Knight'">
+                        <img src="https://pin.it/66b9jcMZF" alt="Sir Gareth" onerror="this.src='https://via.placeholder.com/300x300/1a237e/D4AF37?text=Knight'">
                     </div>
                     <h3 class="character-name">Keeper Creeper</h3>
                     <div class="character-class">A Prostituta Possuida</div>
