@@ -56,7 +56,7 @@
 
         header {
             text-align: center;
-            padding: 60px 0;
+            padding: 10px 0;
             position: relative;
         }
 
@@ -363,22 +363,22 @@
     
     <div class="container">
         <header>
-            <h1 class="logo">Conquistadores de Boros</h1>
-            <p class="subtitle">A origem de todo mal</p>
+            <h1 class="logo">Incursores</h1>
+            <p class="subtitle">Bhoros e a origem de todo Caos</p>
         </header>
 
         <section class="game-description">
-            <h2>Em um mundo sem heróis</h2>
+            <h2>Fábula Ultima</h2>
             <p>
-                Em um continente onde a magia e a loucura se encontram, quatro individuos únicos devem unir suas forças para vencer um desafio maior. 
-                Inspirado nos clássicos RPGs táticos, este jogo combina narrativa envolvente com combate estratégico. 
+                Em um continente onde a magia e a loucura se encontram, quatro individuos, únicos em seu modo de existir, devem unir suas forças para vencer um desafio de nivel continental. 
+                Inspirado nos clássicos RPGs táticos, este jogo combina uma narrativa envolvente com combate estratégico. 
                 Cada decisão importa, cada movimento pode determinar o destino do grupo. 
-                Explorando a majestosa Dungeon de Boros, com mistérios arcanos, desafios e sofrimento, domine tudo.
+                Explorando a majestosa Dungeon de Bhoros, enfrente mistérios, desafios e sofrimento, para então dominar tudo.
             </p>
         </section>
 
         <section class="characters-section">
-            <h2 class="section-title">Os Quatro Destinos</h2>
+            <h2 class="section-title">Os Quatro Incursores</h2>
             
             <div class="characters-grid">
                 <div class="character-card">
@@ -390,20 +390,20 @@
                     
                     <div class="character-stats">
                         <div class="stat-bar">
-                            <span class="stat-name">Força</span>
-                            <span class="stat-value">95</span>
+                            <span class="stat-name">Destreza (DES)</span>
+                            <span class="stat-value">D6</span>
                         </div>
                         <div class="stat-bar">
-                            <span class="stat-name">Defesa</span>
-                            <span class="stat-value">90</span>
+                            <span class="stat-name">Vigor (VIG)</span>
+                            <span class="stat-value">D10</span>
                         </div>
                         <div class="stat-bar">
-                            <span class="stat-name">Velocidade</span>
-                            <span class="stat-value">60</span>
+                            <span class="stat-name">Astúcia (AST)</span>
+                            <span class="stat-value">D8</span>
                         </div>
                         <div class="stat-bar">
-                            <span class="stat-name">Mana</span>
-                            <span class="stat-value">40</span>
+                            <span class="stat-name">Vontade (VON)</span>
+                            <span class="stat-value">D8</span>
                         </div>
                     </div>
                     
