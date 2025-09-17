@@ -417,7 +417,7 @@
 
                 <div class="character-card">
                     <div class="character-portrait">
-                        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face" alt="Lyra Moonwhisper" onerror="this.src='https://via.placeholder.com/300x300/4a148c/D4AF37?text=Mage'">
+                        <img src="https://i.pinimg.com/736x/a2/fd/d9/a2fdd96a69abd4fd15df33f640de0c80.jpg" alt="Lyra Moonwhisper" onerror="this.src='https://via.placeholder.com/300x300/4a148c/D4AF37?text=Mage'">
                     </div>
                     <h3 class="character-name">Janus Lemurides</h3>
                     <div class="character-class">O Sábio Sideral</div>
@@ -451,7 +451,7 @@
 
                 <div class="character-card">
                     <div class="character-portrait">
-                        <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face" alt="Thane Swiftarrow" onerror="this.src='https://via.placeholder.com/300x300/2e7d32/D4AF37?text=Archer'">
+                        <img src="https://i.pinimg.com/736x/d9/40/09/d940090caf08c5c7c845cc21d83da02d.jpg" alt="Thane Swiftarrow" onerror="this.src='https://via.placeholder.com/300x300/2e7d32/D4AF37?text=Archer'">
                     </div>
                     <h3 class="character-name">Sallindo</h3>
                     <div class="character-class">O Necromante Apelão</div>
@@ -485,7 +485,7 @@
 
                 <div class="character-card">
                     <div class="character-portrait">
-                        <img src="https://images.unsplash.com/photo-1494790108755-2616c17ca6dd?w=300&h=300&fit=crop&crop=face" alt="Seraphina" onerror="this.src='https://via.placeholder.com/300x300/f57c00/D4AF37?text=Healer'">
+                        <img src="https://i.pinimg.com/736x/c2/c7/71/c2c771972a0bc715067590fc067d9fb8.jpg" alt="Nergal" onerror="this.src='https://via.placeholder.com/300x300/f57c00/D4AF37?text=Healer'">
                     </div>
                     <h3 class="character-name">Nergal</h3>
                     <div class="character-class">O Metamorfo Combado</div>
